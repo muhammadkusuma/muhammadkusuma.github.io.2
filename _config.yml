@@ -1,13 +1,13 @@
 # ----
 # Site
 
-title: Fur
-url: "http://turquoise-rook.cloudvent.net/"
+title: Arsya Olshop
+url: "https://muhammadkusuma.github.io"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5ODg1ODkw"
-snipcart_currency: "usd"
+snipcart_currency: "idr"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
