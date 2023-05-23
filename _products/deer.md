@@ -1,14 +1,11 @@
 ---
 name: Sacha the Deer
 description_markdown: >-
-  Sacha's elegant antlers have never been seen on such a beautiful t-shirt. Wear
-  this majestic beast and feel all your problems float away.
+  Tanduk yang elegan milik Sacha belum pernah terlihat di kaos yang begitu indah. Kenakan binatang yang megah ini dan rasakan semua masalahmu menghilang.
 
-
-
-  Slim Fit, 5oz 100% Cotton T-Shirt.
+Kaos dengan ukuran pas, 100% katun 5 ons.
 garment_type:
-price: '9.00'
+price: '133823'
 sku: deer
 stock: 10
 sizes:
