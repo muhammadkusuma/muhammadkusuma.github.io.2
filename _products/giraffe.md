@@ -1,14 +1,13 @@
 ---
 name: Gerald the Giraffe
 description_markdown: >-
-  Gerald the giraffe isn't particularly spiritual but he has a long neck which
-  can help you in a pinch.
+  Gerald si jerapah tidak terlalu spiritual, tetapi lehernya yang panjang dapat membantumu saat kesusahan.
+  
 
 
-
-  Slim Fit, 5oz 100% Cotton T-Shirt.
+  Kaos dengan ukuran pas, 100% katun 5 ons.
 garment_type:
-price: '9.00'
+price: '93124'
 sku: giraffe
 stock: 10
 sizes:

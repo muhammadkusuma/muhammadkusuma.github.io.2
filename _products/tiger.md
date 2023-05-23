@@ -1,14 +1,13 @@
 ---
 name: Gavin the Tiger
 description_markdown: >-
-  Gavin the tiger was brought up vegan. His favorite meal is chickpea salad with
-  a lemon juice dressing.
+  Gavin si harimau dibesarkan secara vegan. Makanan favoritnya adalah salad kacang arab dengan saus perasan jeruk lemon.
+  
 
-
-
-  Slim Fit, 5oz 100% Cotton T-Shirt.
+  
+  Kaos dengan ukuran pas, 100% katun 5 ons.
 garment_type:
-price: '9.00'
+price: '98234'
 sku: tiger
 stock: 10
 sizes:

@@ -1,15 +1,13 @@
 ---
 name: Todd the Hedgehog
 description_markdown: >-
-  Todd the hedgehog may have a spiky exterior but his heart is made of gold.
-  Unfortunately this weighs him down and makes it difficult for him to get
-  around.
+  Todd si landak mungkin memiliki tubuh yang berduri, tetapi hatinya terbuat dari emas. Sayangnya, ini membuatnya terbebani dan sulit baginya untuk bergerak.
+  
 
 
-
-  Slim Fit, 5oz 100% Cotton T-Shirt.
+  Kaos dengan ukuran pas, 100% katun 5 ons.
 garment_type:
-price: '9.00'
+price: '93002'
 sku: hog
 stock: 10
 sizes:

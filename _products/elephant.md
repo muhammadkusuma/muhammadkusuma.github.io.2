@@ -1,14 +1,13 @@
 ---
 name: Bumble the Elephant
 description_markdown: >-
-  Bumble the humble elephant is your shining star. He will always remember who
-  you are and why you are here.
+  Bumble, si gajah rendah hati, adalah bintang bersinarmu. Dia akan selalu mengingat siapa dirimu dan mengapa kamu ada di sini.
+  
 
 
-
-  Slim Fit, 5oz 100% Cotton T-Shirt.
+  Kaos dengan ukuran pas, 100% katun 5 ons.
 garment_type:
-price: '9.00'
+price: '183000'
 sku: elephant
 stock: 10
 sizes:

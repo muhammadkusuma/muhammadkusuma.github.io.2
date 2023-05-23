@@ -1,14 +1,13 @@
 ---
 name: Scar the Lion
 description_markdown: >-
-  Scar the lion is always true to himself. The Mufasa tragedy was a slight
-  blemish in what was otherwise a saint-like life.
+  Scar si singa selalu menjadi dirinya yang sejati. Tragedi Mufasa adalah celaan kecil dalam kehidupannya yang sejauh itu penuh kebaikan seperti seorang santo.
+  
 
-
-
-  Slim Fit, 5oz 100% Cotton T-Shirt.
+  
+  Kaos dengan ukuran pas, 100% katun 5 ons.
 garment_type:
-price: '9.00'
+price: '87341'
 sku: lion
 stock: 10
 sizes:
